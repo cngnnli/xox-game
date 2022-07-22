@@ -11,7 +11,7 @@ const Game = () => {
     if(isComputerTurn){
       let comp;
       while (squares[comp] !== '' || comp < 0 || comp > 219){
-        comp = Math.floor(Math.random()*20-6+index);
+        comp = Math.floor(Math.random()*220);
       }
         let newSquares = [];
         newSquares = [...squares]
