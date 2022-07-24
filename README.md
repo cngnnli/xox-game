@@ -4,7 +4,7 @@ This project was bootstrapped with [Create React App](https://github.com/faceboo
 
 ## Game Link
 
-Open [https://xox-alpha.vercel.app/]
+Open [https://xox-game-mauve.vercel.app/]
 
 ## Available Scripts
 
